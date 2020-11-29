@@ -1,4 +1,4 @@
-// (½Ç½À1) default parameter ¿ë¹ı ÀÍÈ÷±â
+// (ì‹¤ìŠµ1) default parameter ìš©ë²• 
 
 #include <iostream>
 
