@@ -1,4 +1,4 @@
-// (실습1) default parameter 용법 
+// (실습1) default parameter 용법 익히기
 
 #include <iostream>
 
